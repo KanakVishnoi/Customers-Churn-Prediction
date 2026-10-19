@@ -2,6 +2,11 @@
 
 A machine learning project that predicts whether a telecom customer is likely to leave a service. It uses customer information, service subscriptions, contract details, and billing data to estimate churn probability through an interactive Streamlit web application.
 
+🚀 **Live Demo:
+[Try the Customer Churn Prediction App](https://customers-churn-prediction-5sqe3appqwq2grqb6rgzqjx.streamlit.app/)
+
+Predict whether a telecom customer is likely to leave the service using a trained machine-learning model.
+
 ## 🚀 Project Overview
 
 Customer churn is an important business problem because retaining existing customers can be more cost-effective than acquiring new ones. This project uses historical customer data to build a classification model that helps identify customers who may be at risk of leaving.
