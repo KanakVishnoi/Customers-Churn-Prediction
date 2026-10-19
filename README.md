@@ -93,7 +93,7 @@ These results represent the current model and threshold. Performance may vary on
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/KanakVishnoi/Customers-Churn-Prediction.git
 cd Customers-Churn-Prediction
 ```
 
